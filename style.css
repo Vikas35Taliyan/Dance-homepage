@@ -249,8 +249,11 @@ main {
   }
   .navbar-container .navbar {
     background-color: white;
-    margin-left: -4rem;
+    margin-left: -10rem;
     position: fixed;
+  }
+  .navbar-container .navbar .list {
+    gap: 70px;
   }
   .heading {
     position: absolute;
@@ -261,7 +264,10 @@ main {
     position: relative;
     left: 1rem;
     bottom: 5rem;
-
+   }
+   .right-container .btn-wrapper button {
+    position: relative;
+    top: 8rem;
    }
    .social-icons {
     position: relative;
@@ -271,7 +277,7 @@ main {
    }
    .bottom-quote {
     top: 18rem;
-    left: -2rem;
+    left: -7rem;
    }
    .bottom {
     position: relative;
@@ -279,7 +285,7 @@ main {
     left: -3rem;
    }
    .left-image-container .left-image img {
-    left: 2rem;
+    left: 0rem;
     background-size: cover;
     height: 350px;
     width: 490px;
@@ -288,5 +294,10 @@ main {
    .heading div p {
     position: relative;
     right: 2.1rem;
+    display: none;
    }
+
+.arrow > img {
+  display: none;
+}
 }
