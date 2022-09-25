@@ -1,18 +1,16 @@
-![name](https://img.shields.io/badge/name-vikas%20kumar-brightgreen)
-![project](https://img.shields.io/badge/project-dance%20homepage-green)
-![tech](https://img.shields.io/badge/tech-css-yellowgreen)
-![thanks](https://img.shields.io/badge/thanks-hitesh%20choudhary-red)
+![project](https://img.shields.io/badge/PROJECT-DANCE%20HOMEPAGE-green)
+![Time](https://img.shields.io/badge/TIME-5%20HOURS-red)
+![thanks](https://img.shields.io/badge/TECH-HTML%20CSS-green)
 
-# project name
-## Dance homepage
+# Netlify.
+[Live](https://dance-homepage-facedd.netlify.app/)
 
-# Time
-5 hours 
-# What I learn
-* Background image
-* positions
-* Designing button
-* box-model
+# What I learn from This Project:
+* Background image.
+* Positions.
+* Designing button.
+* Box-model.
+* Media Queries.
 
 # screenshot of the project.
 ![dance project](./screenshot/dance%20project.PNG)
